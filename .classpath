@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/ejb3-persistence-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/hibernate-cglib-repack-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/New folder/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/ant-antlr-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/cglib-nodep.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/classes12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/connect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/freemarker-2.3.12-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/lucene-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/swarmcache-1.0RC2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rahul/Desktop/JARS/new2/tomcat-6.0.16-catalina.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
